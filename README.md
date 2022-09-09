@@ -5,6 +5,7 @@ Repositório com os notebooks, datasets e referências usadas para a apresentaç
 <p>
   Site GF : https://www.grammaticalframework.org/</br>
   Lib para data augmentation usada : https://github.com/dsfsi/textaugment#wordnet-based-augmentation</br>
+  Github da geração das gramáticas : https://github.com/dominickmaia/gfgrammars/tree/main/tweets
   Google Transphobic Searches : https://www.them.us/story/google-autocomplete-suggestions-transphobia-celebrities</br>
   AI Racism Brazil : https://restofworld.org/2022/how-ai-reinforces-racism-in-brazil/</br>
   Google Translate is Sexist : https://scroll.in/article/991275/google-translate-is-sexist-and-it-needs-a-little-gender-sensitivity-training</br>
